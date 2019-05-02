@@ -278,7 +278,7 @@ With the alphabet
 | `L`    |                                                            Dummy symbol |
 | `l`    |                                                            Dummy symbol |
 
-## Bowls / Vases
+## Vases
 
 ![](./images/vases3.png)
 
