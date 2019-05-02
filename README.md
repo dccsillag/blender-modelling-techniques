@@ -1,6 +1,6 @@
 # Various Modelling Techniques Implemented in Blender
 
-**NOTE: LaTeX doesn't render in Github Markdown - [check README.html](http://htmlpreview.github.com/?https://github.com/dccsillag/blender-modelling-techniques/blob/master/README.html) for better reading.**
+**NOTE: LaTeX doesn't render in Github Markdown - [check README.html](https://dccsillag.github.io/coursework/3dGraphicsSystems/Assignment1/index.html) for better reading.**
 
 This is my solution to the first assignment of the course ["Sistemas Gráficos 3D"](http://lvelho.impa.br/i3d19/). The code can be found in
 [dccsillag/blender-modelling-techniques](https://github.com/dccsillag/blender-modelling-techniques).
